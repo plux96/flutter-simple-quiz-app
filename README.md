@@ -2,9 +2,17 @@
 
 A new Flutter project.
 
-## Home Page
+## Start Page
 
 <img src="https://github.com/plux96/flutter-simple-quiz-app/blob/main/assets/start_page.png" alt="drawing" width="200"/>
+
+## Questions Page
+
+<img src="https://github.com/plux96/flutter-simple-quiz-app/blob/main/assets/quiz_app.png" alt="drawing" width="200"/>
+
+## Result Page
+
+<img src="https://github.com/plux96/flutter-simple-quiz-app/blob/main/assets/answers.png" alt="drawing" width="200"/>
 
 ## Getting Started
 
