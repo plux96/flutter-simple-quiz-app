@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Home Page
 
-![alt text](https://github.com/plux96/flutter-simple-quiz-app/blob/main/assets/start_page.png) { width=50% }
+![alt text](https://github.com/plux96/flutter-simple-quiz-app/blob/main/assets/start_page.png =250x)
 
 ## Getting Started
 
