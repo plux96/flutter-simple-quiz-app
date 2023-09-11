@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Home Page
+
+![alt text](https://github.com/plux96/flutter-simple-quiz-app/blob/main/assets/start_page.png) { width=50% }
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
